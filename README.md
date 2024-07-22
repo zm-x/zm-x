@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![pixel-jeff-matrix-s](https://github.com/user-attachments/assets/b9081031-1f40-4b8b-b489-8a6921713fd7)
 
-[![MasterHead](https://pixeljeff1995.artstation.com/projects/8eelbG)](https://ww38.rishavchanda.io)
 <h1 align="center">Hi 👋, I'm zakaria el mountassire</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.reddit.com/r/Cyberpunk/comments/17orhba/coding_by_pixel_jeff/?rdt=38458](https://pixeljeff1995.artstation.com/projects/8eelbG)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zm-x&label=Profile%20views&color=0e75b6&style=flat" alt="zm-x" /> </p>
 
