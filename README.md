@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/zmountassire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zmountassire" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zakaria el mountassire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakaria el mountassire" height="30" width="40" /></a>
 <a href="https://fb.com/zakaria el mountassire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zakaria el mountassire" height="30" width="40" /></a>
-<a href="https://instagram.com/zakariafr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zakariafr_" height="30" width="40" /></a>
+<a href="https://instagram.com/_zakariafr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zakariafr_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
