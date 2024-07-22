@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ![pixel-jeff-matrix-s](https://github.com/user-attachments/assets/b9081031-1f40-4b8b-b489-8a6921713fd7)
 
 <h1 align="center">Hi !, I'm zakaria el mountassire</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zm-x&label=Profile%20views&color=0e75b6&style=flat" alt="zm-x" /> </p>
 
