@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
 <a href="https://profile.intra.42.fr/users/zael-mou">
-<img src="/oakoudad/badge42/raw/main/example/greenbinary.svg"/>
+<img src="/oakoudad/badge42/raw/main/example/greenbinary.svg" alt="Green binary" title="Green binary" style="max-width: 100%;">
 </p>
 </a>
 
