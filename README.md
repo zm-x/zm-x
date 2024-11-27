@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![pixel-jeff-matrix-s](https://github.com/user-attachments/assets/b9081031-1f40-4b8b-b489-8a6921713fd7)
+<p align="center">
+<img src="https://badge.mediaplus.ma/binary/ykebieb?UM6P=off">
+</p>
 
 <h1 align="center">Hi !, I'm zakaria el mountassire</h1>
 <h3 align="center">A passionate frontend developer from morocco</h3>
