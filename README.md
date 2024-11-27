@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
 <a href="https://profile.intra.42.fr/users/zael-mou">
-<img src="https://raw.githubusercontent.com/oakoudad/badge42/90c2e9d1de800d0eaea86e2ea486a5b44c975a6e/example/greenbinary.svg">
+<img src="https://raw.githubusercontent.com/zael-mou/badge42/90c2e9d1de800d0eaea86e2ea486a5b44c975a6e/example/greenbinary.svg">
 </p>
 </a>
 
