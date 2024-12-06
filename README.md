@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://profile.intra.42.fr/users/zael-mou">
 <p align="center">
+<a href="https://profile.intra.42.fr/users/zael-mou">
 <img src="https://badge.mediaplus.ma/binary/ykebieb?UM6P=off">
 </p>
 </a>
