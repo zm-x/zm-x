@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<a href="https://profile.intra.42.fr/users/zael-mou">
-<img src="https://badge.mediaplus.ma/binary/ykebieb?UM6P=off">
+  <a href="https://profile.intra.42.fr/users/zael-mou">
+    <img src="https://badge.mediaplus.ma/binary/ykebieb?UM6P=off">
+  </a>
 </p>
-</a>
 
 <h1 align="center">Hi !, I'm zakaria el mountassire</h1>
 <h3 align="center">A passionate frontend developer from morocco</h3>
