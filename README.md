@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://profile.intra.42.fr/users/zael-mou">
-<img src="https://badge.mediaplus.ma/binary/zael-mou?UM6P=off">
+<p align="center">
+<img src="https://badge.mediaplus.ma/binary/ykebieb?UM6P=off">
+</p>
 </a>
 
 <h1 align="center">Hi !, I'm zakaria el mountassire</h1>
