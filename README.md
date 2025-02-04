@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 </p>
 
 <h1 align="center">Hi !, I'm zakaria el mountassire</h1>
-<h3 align="center">A passionate frontend developer from morocco</h3>
+<h3 align="center">engenier developer from morocco</h3>
