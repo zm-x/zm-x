@@ -23,4 +23,3 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zm-x&label=Profile%20views&color=0e75b6&style=flat" alt="zm-x" /> </p>
 
-<p align="left"> <a href="https://twitter.com/zmountassire" target="blank"><img src="https://img.shields.io/twitter/follow/zmountassire?logo=twitter&style=for-the-badge" alt="zmountassire" /></a> </p>
