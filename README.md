@@ -5,7 +5,7 @@ Software developer passionate about systems programming, backend logic, and solv
 - 💻 **Tech Stack:** C, C++, Python, JavaScript, Linux, Docker
 - 🔭 **Currently working on:** Low-level network systems & web applications
 - 🌱 **Learning:** High-performance computing & system architecture
-- 📫 **Contact:** [LinkedIn]([https://www.linkedin.com/in/zakaria-mountassire/]) | [Email](mailto:zclero42@gmail.com)
+- 📫 **Contact:** [LinkedIn](https://linkedin.com/in/zakaria-mountassire/) | [Email](mailto:zclero42@gmail.com)
 
 
 ## 🌐 Socials:
