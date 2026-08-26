@@ -1,5 +1,11 @@
-# 💫 About Me:
-# Hi there, I'm zakaria 👋 Software Engineer focused on low-level development, system architecture, and scalable software.       🛠️ Core Stack & Tools - **Languages:** C, C++, Python, JavaScript, PHP - **Systems & OS:** Linux (Debian, Arch), POSIX Threads, Sockets API - **DevOps & Containers:** Docker, Git, CI/CD       🔭 Current Focus - 🌐 Building networked architectures & protocol implementations (Sockets, Multiplexing) - ⚡ Deep-diving into memory management, algorithms, and concurrent programming - 🚀 Exploring Fintech & real-world full-stack systems       📊 GitHub Stats ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)   --- 📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/YOUR_PROFILE) • [Portfolio/Website](https://yourwebsite.com)
+# Hi there 👋, I'm [Your Name]
+
+Software developer passionate about systems programming, backend logic, and solving complex problems.
+
+- 💻 **Tech Stack:** C, C++, Python, JavaScript, Linux, Docker
+- 🔭 **Currently working on:** Low-level network systems & web applications
+- 🌱 **Learning:** High-performance computing & system architecture
+- 📫 **Contact:** [LinkedIn]([https://www.linkedin.com/in/zakaria-mountassire/]) | [Email](mailto:zclero42@gmail.com)
 
 
 ## 🌐 Socials:
