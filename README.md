@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi , I'm zakaria
 
 Software developer passionate about systems programming, backend logic, and solving complex problems.
 
