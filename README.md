@@ -2,9 +2,9 @@
 
 Software developer passionate about systems programming, backend logic, and solving complex problems.
 
-- 💻 **Tech Stack:** C, C++, Python, JavaScript, Linux, Docker
-- 🔭 **Currently working on:** Low-level network systems & web applications
-- 🌱 **Learning:** High-performance computing & system architecture
+- **Tech Stack:** C, C++, Python, JavaScript, Linux, Docker
+- **Currently working on:** Low-level network systems & web applications
+- **Learning:** High-performance computing & system architecture
 
 
 ## 🌐 Socials:
