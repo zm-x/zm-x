@@ -42,19 +42,6 @@ low-level systems
 
 ```
 
-I'm a software engineering student at **1337 — UM6P**, part of the **42 Network**.
-
-My journey has been heavily focused on learning how software works underneath:
-memory management, processes, UNIX systems, networking, multithreading,
-object-oriented programming, containers, and system-level architecture.
-
-Through the 42 curriculum, I've built projects ranging from my own C library and
-shell implementation to multithreaded simulations, network servers, Docker
-infrastructure, and full-stack applications.
-
-I enjoy working close to the system — especially with **C, C++, Linux, networking,
-Docker, and DevOps** — while continuously expanding into backend and web technologies.
-
 ---
 
 ### `// stack`
@@ -80,40 +67,6 @@ Docker, and DevOps** — while continuously expanding into backend and web techn
 ![CSS3](https://img.shields.io/badge/CSS3-0B0E14?style=flat-square\&logo=css3\&logoColor=1572B6)
 ![SQL](https://img.shields.io/badge/SQL-0B0E14?style=flat-square\&logo=postgresql\&logoColor=5BC8DE)
 
----
-
-### `$ ls ~/projects`
-
-```text
-libft             → custom C standard library
-ft_printf         → printf implementation
-get_next_line     → buffered file descriptor reader
-pipex             → UNIX pipes & process management
-so_long           → 2D game using MiniLibX
-philosophers      → multithreading & synchronization
-minishell         → UNIX shell implementation
-cub3d             → raycasting engine
-cpp_modules       → C++ / OOP fundamentals
-ft_irc            → IRC server in C++
-inception         → Docker infrastructure
-ft_transcendence  → full-stack final 42 project
-```
-
----
-
-### `// currently exploring`
-
-```bash
-$ cat interests.txt
-
-low-level systems
-network programming
-linux internals
-docker & containerization
-devops
-backend engineering
-system architecture
-```
 
 ---
 
