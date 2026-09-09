@@ -130,16 +130,9 @@ system architecture
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zm-x&hide_border=true&background=0b0e14&stroke=222b3a&ring=FFB454&fire=FFB454&currStreakLabel=FFB454&sideLabels=c3cdda&currStreakNum=f4f7fb&sideNums=f4f7fb&dates=7c8898&dayLabels=5BC8DE&excludeDaysLabel=7c8898" alt="streak" />
 
 </div>
-
-<!-- contribution snake -->
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zm-x/zm-x/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zm-x/zm-x/output/snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/zm-x/zm-x/output/snake.svg" />
-  </picture>
-</div>
+```
+<!-- contribution snake — enable the workflow in the setup section below --> 
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HoussamMrabet/HoussamMrabet/output/snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HoussamMrabet/HoussamMrabet/output/snake.svg" /> <img alt="contribution snake" src="https://raw.githubusercontent.com/HoussamMrabet/HoussamMrabet/output/snake.svg" /> </picture> </div>
 
 ---
 
