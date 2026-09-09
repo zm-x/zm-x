@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=21&pause=1000&color=8CC265&center=true&vCenter=true&width=760&height=60&lines=Software+Engineering+Student+%40+1337+%2F+42+Network;Building+systems+with+C+%2F+C%2B%2B+%2F+Linux;Exploring+DevOps+%2F+Docker+%2F+Networking" alt="Zakaria El Mountassir" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=5BC8DE&center=true&vCenter=true&width=760&height=60&lines=Software+Engineering+Student+%40+1337+%2F+42+Network;Building+systems+with+C+%2F+C%2B%2B+%2F+Linux;Exploring+DevOps+%2F+Docker+%2F+Networking" alt="Zakaria El Mountassir" />
 
 # `~/zakaria_el_mountassir`
 
