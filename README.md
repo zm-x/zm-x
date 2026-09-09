@@ -23,8 +23,6 @@
 
 ---
 
-### `// stack`
-
 **systems & programming**
 
 ![C](https://img.shields.io/badge/C-0B0E14?style=flat-square\&logo=c\&logoColor=A8B9CC)
