@@ -23,27 +23,6 @@
 
 ---
 
-### `$ whoami`
-
-```bash
-$ whoami
-zakaria el mountassir — software engineering student @ 1337
-
-$ cat stack.txt
-systems · c / c++ / linux
-devops  · docker / git / bash
-web     · javascript / html / css / sql
-
-$ ls ~/now
-ft_transcendence
-docker & devops
-network programming
-low-level systems
-
-```
-
----
-
 ### `// stack`
 
 **systems & programming**
