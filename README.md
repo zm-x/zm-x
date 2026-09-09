@@ -40,8 +40,6 @@ docker & devops
 network programming
 low-level systems
 
-$ ./status --open-to-work
-> looking for software engineering internships & collaborations
 ```
 
 I'm a software engineering student at **1337 — UM6P**, part of the **42 Network**.
