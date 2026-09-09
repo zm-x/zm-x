@@ -9,8 +9,6 @@
 
 # `~/zakaria_el_mountassir`
 
-**Software Engineering Student · 1337 / 42 Network**
-
 <a href="https://github.com/zm-x">
   <img src="https://img.shields.io/badge/GitHub-zm--x-FFB454?style=flat-square&labelColor=0B0E14&logo=github&logoColor=FFB454" alt="github" />
 </a>
