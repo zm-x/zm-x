@@ -117,18 +117,6 @@ system architecture
 
 ---
 
-### `$ git stats --all`
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=zm-x&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=FFB454&icon_color=5BC8DE&text_color=c3cdda&bg_color=0b0e14" alt="github stats" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zm-x&layout=compact&langs_count=8&hide_border=true&title_color=FFB454&text_color=c3cdda&bg_color=0b0e14" alt="top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zm-x&hide_border=true&background=0b0e14&stroke=222b3a&ring=FFB454&fire=FFB454&currStreakLabel=FFB454&sideLabels=c3cdda&currStreakNum=f4f7fb&sideNums=f4f7fb&dates=7c8898&dayLabels=5BC8DE&excludeDaysLabel=7c8898" alt="streak" />
-
-</div>
-```
 <!-- contribution snake — enable the workflow in the setup section below --> 
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HoussamMrabet/HoussamMrabet/output/snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HoussamMrabet/HoussamMrabet/output/snake.svg" /> <img alt="contribution snake" src="https://raw.githubusercontent.com/HoussamMrabet/HoussamMrabet/output/snake.svg" /> </picture> </div>
 
