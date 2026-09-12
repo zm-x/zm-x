@@ -9,14 +9,6 @@
 
 # `~/zakaria_el_mountassir`
 
-<a href="https://github.com/zm-x">
-  <img src="https://img.shields.io/badge/GitHub-zm--x-FFB454?style=flat-square&labelColor=0B0E14&logo=github&logoColor=FFB454" alt="github" />
-</a>
-
-<img src="https://img.shields.io/badge/status-open%20to%20work-8CC265?style=flat-square&labelColor=0B0E14" alt="open to work" />
-
-<img src="https://komarev.com/ghpvc/?username=zm-x&label=profile%20views&color=ffba54&style=flat-square" alt="profile views" />
-
 </div>
 
 ---
